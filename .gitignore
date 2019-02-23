@@ -1,0 +1,8 @@
+main
+validation
+evaluation
+*.h5
+venv
+train
+data
+.DS_Store
