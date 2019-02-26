@@ -3,7 +3,8 @@ validation
 evaluation
 *.h5
 venv
-train
-data
+train*
+data*
 .DS_Store
-optical
+optical*
+*.mp4
