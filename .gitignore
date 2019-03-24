@@ -2,7 +2,7 @@ main
 validation
 evaluation
 *.h5
-venv
+carvenv
 train*
 data*
 .DS_Store
